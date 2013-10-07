@@ -6,4 +6,4 @@ Kursens webbplats hittar du här: https://coursepress.lnu.se/kurs/klientbaserad-
 
 Kursen är en del av programmet: https://coursepress.lnu.se/program/interaktionsdesigner
 
-Testar med nytt
+Testar med nytt i HT2013
